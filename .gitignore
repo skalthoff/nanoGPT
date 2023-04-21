@@ -2,3 +2,10 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+data/shakespeare/
+.trunk/configs/.markdownlint.yaml
+output.txt
+.trunk/.gitignore
+.trunk/trunk.yaml
+.trunk/configs/.flake8
+.trunk/configs/.isort.cfg
